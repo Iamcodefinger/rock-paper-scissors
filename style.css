@@ -1,0 +1,40 @@
+body{
+    background-color:black;
+    font-family: 'Roboto', sans-serif;
+    width:850px;
+    margin: 0 auto;
+    height: 1000px;
+}
+
+article{
+    width: 380px;
+    height: 140px;
+    border: 2px solid grey;
+    background-color:darkred;
+    border-radius:4px;
+    margin-top: 10px;
+}
+.hum{
+    float:right;
+    background-color:brown;
+    margin-top:1px
+}
+header h1, h3{
+    color:darkgrey;
+    text-align: center;
+}
+h1, h2{
+    color: red;
+    
+}
+#one{
+    text-align: end;
+    margin-top:-5px;
+    margin-bottom:20px;
+    margin-right:150px;
+}
+#two{
+    margin-left:110px;
+    margin-bottom:5px;
+    margin-top:-50px;
+}
